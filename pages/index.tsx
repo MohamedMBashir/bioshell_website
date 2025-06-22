@@ -1,7 +1,5 @@
 import Head from 'next/head';
 import Image from 'next/image';
-import Link from 'next/link';
-import { useRouter } from 'next/router';
 import Hero from '../components/Hero';
 import ProblemSolution from '../components/ProblemSolution';
 import Product from '../components/Product';
